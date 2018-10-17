@@ -1,0 +1,11 @@
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\obj\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.csprojAssemblyReference.cache
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\obj\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.csproj.CoreCompileInputs.cache
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\obj\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.AssemblyInfoInputs.cache
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\obj\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.AssemblyInfo.cs
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\bin\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.deps.json
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\bin\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.runtimeconfig.json
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\bin\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.runtimeconfig.dev.json
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\bin\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.dll
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\bin\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.pdb
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\obj\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.dll
+C:\wamp64\www\4. SEM5_LPC\Aula10-Avaliacao-G1\obj\Debug\netcoreapp2.0\Aula10-Avaliacao-G1.pdb

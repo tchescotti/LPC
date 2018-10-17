@@ -1,0 +1,33 @@
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/bin/Debug/netcoreapp2.0/AppPeople.deps.json
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/bin/Debug/netcoreapp2.0/AppPeople.runtimeconfig.json
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/bin/Debug/netcoreapp2.0/AppPeople.runtimeconfig.dev.json
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/bin/Debug/netcoreapp2.0/AppPeople.dll
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/bin/Debug/netcoreapp2.0/AppPeople.pdb
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/obj/Debug/netcoreapp2.0/AppPeople.csproj.CoreCompileInputs.cache
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/obj/Debug/netcoreapp2.0/AppPeople.AssemblyInfoInputs.cache
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/obj/Debug/netcoreapp2.0/AppPeople.AssemblyInfo.cs
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/obj/Debug/netcoreapp2.0/AppPeople.dll
+/Users/giltobarcella/Desktop/LPC/Aula04/AppPeople/obj/Debug/netcoreapp2.0/AppPeople.pdb
+C:\wamp64\www\AppPeople2\bin\Debug\netcoreapp2.0\AppPeople.deps.json
+C:\wamp64\www\AppPeople2\bin\Debug\netcoreapp2.0\AppPeople.runtimeconfig.json
+C:\wamp64\www\AppPeople2\bin\Debug\netcoreapp2.0\AppPeople.runtimeconfig.dev.json
+C:\wamp64\www\AppPeople2\bin\Debug\netcoreapp2.0\AppPeople.dll
+C:\wamp64\www\AppPeople2\bin\Debug\netcoreapp2.0\AppPeople.pdb
+C:\wamp64\www\AppPeople2\obj\Debug\netcoreapp2.0\AppPeople.csprojAssemblyReference.cache
+C:\wamp64\www\AppPeople2\obj\Debug\netcoreapp2.0\AppPeople.csproj.CoreCompileInputs.cache
+C:\wamp64\www\AppPeople2\obj\Debug\netcoreapp2.0\AppPeople.AssemblyInfoInputs.cache
+C:\wamp64\www\AppPeople2\obj\Debug\netcoreapp2.0\AppPeople.AssemblyInfo.cs
+C:\wamp64\www\AppPeople2\obj\Debug\netcoreapp2.0\AppPeople.dll
+C:\wamp64\www\AppPeople2\obj\Debug\netcoreapp2.0\AppPeople.pdb
+C:\wamp64\www\4. SEM5_LPC\Aula05 - AppPeople - EF\obj\Debug\netcoreapp2.0\AppPeople.csprojAssemblyReference.cache
+C:\wamp64\www\4. SEM5_LPC\Aula05 - AppPeople - EF\obj\Debug\netcoreapp2.0\AppPeople.csproj.CoreCompileInputs.cache
+C:\wamp64\www\4. SEM5_LPC\Aula05 - AppPeople - EF\obj\Debug\netcoreapp2.0\AppPeople.AssemblyInfoInputs.cache
+C:\wamp64\www\4. SEM5_LPC\Aula05 - AppPeople - EF\obj\Debug\netcoreapp2.0\AppPeople.AssemblyInfo.cs
+C:\wamp64\www\4. SEM5_LPC\Aula05 - AppPeople - EF\obj\Debug\netcoreapp2.0\AppPeople.dll
+C:\wamp64\www\4. SEM5_LPC\Aula05 - AppPeople - EF\obj\Debug\netcoreapp2.0\AppPeople.pdb
+C:\wamp64\www\4. SEM5_LPC\Aula07 - Prática MVC e EF\obj\Debug\netcoreapp2.0\AppPeople.csprojAssemblyReference.cache
+C:\wamp64\www\4. SEM5_LPC\Aula07 - Prática MVC e EF\obj\Debug\netcoreapp2.0\AppPeople.csproj.CoreCompileInputs.cache
+C:\wamp64\www\4. SEM5_LPC\Aula07 - Prática MVC e EF\obj\Debug\netcoreapp2.0\AppPeople.AssemblyInfoInputs.cache
+C:\wamp64\www\4. SEM5_LPC\Aula07 - Prática MVC e EF\obj\Debug\netcoreapp2.0\AppPeople.AssemblyInfo.cs
+C:\wamp64\www\4. SEM5_LPC\Aula07 - Prática MVC e EF\obj\Debug\netcoreapp2.0\AppPeople.dll
+C:\wamp64\www\4. SEM5_LPC\Aula07 - Prática MVC e EF\obj\Debug\netcoreapp2.0\AppPeople.pdb

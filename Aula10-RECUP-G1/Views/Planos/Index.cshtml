@@ -1,0 +1,28 @@
+@model IEnumerable<Aula10_Avaliacao_G1.Models.Plano>
+
+@{
+    ViewData["Title"] = "Planos";
+}
+
+</br></br>
+<a href="Planos/Create" class="btn btn-primary">Cadastrar Plano</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Plano</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.nome</td>
+                <td><a class="btn btn-danger" href="Planos/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary" href="Planos/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>

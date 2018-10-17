@@ -1,0 +1,73 @@
+@model Aula10_Avaliacao_G1.Models.Cliente
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<div class="form-horizontal">
+    <form action="Edit" method="Post">
+
+        <div class="form-group">
+            <input  class="form-control"
+                    type="hidden" 
+                    name="id"
+                    value="@Model.id" />
+        </div>
+
+        <div class="form-group">
+            <label>Nome</label>
+            <input  class="form-control"
+                    type="text"
+                    name="nome"
+                    value="@Model.nome" />
+        </div>
+
+        <div class="form-group">
+            <label>Endereço</label>
+            <input  class="form-control"
+                    type="text"
+                    name="endereco"
+                    value="@Model.endereco" />
+        </div>
+
+        <div class="form-group">
+            <label>E-mail</label>
+            <input  class="form-control"
+                    type="text"
+                    name="email"
+                    value="@Model.email" />
+        </div>
+
+        <div class="form-group">
+            <label>Telefone</label>
+            <input  class="form-control"
+                    type="text"
+                    name="fone"
+                    value="@Model.fone" />
+        </div>
+
+        <div class="form-group">
+            <label>Data de nascimento</label>
+            <input  class="form-control"
+                    type="text"
+                    name="dataNascimento"
+                    value="@Model.dataNascimento" />
+        </div>
+
+        <div class="row">
+            <div class="form-group col-md-12">
+                <label for="plano.id">Planos</label>
+                <select class="form-control" name="plano.id">
+                        @foreach (var plano in ViewBag.planos)
+                        {
+                        <option value="@plano.id">@plano.nome</option>
+                        }
+                </select>
+            </div>
+        </div>
+
+        <input  class="btn btn-primary" 
+                type="submit" value="Salvar"/>
+
+    </form>
+</div>

@@ -1,0 +1,40 @@
+@model IEnumerable<Aula10_Avaliacao_G1.Models.Consulta>
+
+@{
+    ViewData["Title"] = "Consultas";
+}
+
+</br></br>
+<a href="Consultas/Create" class="btn btn-primary">Agendar Consulta</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Status</th>
+                <th>Data</th>
+                <th>Horário</th>
+                <th>Cliente</th>
+                <th>Descrição</th>
+                <th>Consultas realizadas</th>
+                <th>Valor</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.status</td>
+                <td>@item.data</td>
+                <td>@item.horario</td>
+                <td>@item.cliente.nome</td>
+                <td>@item.descricao</td>
+                <td>@item.numeroDeConsultas</td>
+                <td>@item.valor</td>
+                <td><a class="btn btn-danger" href="Consultas/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary" href="Consultas/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>

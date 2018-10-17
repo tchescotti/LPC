@@ -1,0 +1,77 @@
+@model Aula10_Avaliacao_G1.Models.Consulta
+
+@{
+    ViewData["Title"] = "Consultas";
+}
+
+<div class="form-horizontal">
+    <form action="Edit" method="Post">
+
+        <div class="form-group">
+            <input  class="form-control"
+                    type="hidden" name="id"
+                    value="@Model.id">
+        </div>
+
+        <div class="form-group">
+            <label>Status</label>
+            <input  class="form-control"
+                    type="text" name="status"
+                    value="@Model.status"/>
+        </div>
+
+        <div class="form-group">
+            <label>Data</label>
+            <input  class="form-control"
+                    type="text" name="data"
+                    value="@Model.data"/>
+        </div>
+
+        <div class="form-group">
+            <label>Horário</label>
+            <input  class="form-control"
+                    type="text" name="horario"
+                    value="@Model.horario"/>
+        </div>
+
+        <div class="row">
+            <div class="form-group col-md-12">
+                <label for="cliente.id">Cliente</label>
+                <select class="form-control" name="cliente.id">
+
+                        <option>Selecione novamente o cliente</option>
+
+                        @foreach (var cliente in ViewBag.clientes)
+                        {
+                        <option value="@cliente.id">@cliente.nome</option>
+                        }
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label>Descrição</label>
+            <input  class="form-control"
+                    type="text" name="descricao"
+                    value="@Model.descricao"/>
+        </div>
+
+        <div class="form-group">
+            <label>Consultas realizadas</label>
+            <input  class="form-control"
+                    type="text" name="numeroDeConsultas"
+                    value="@Model.numeroDeConsultas"/>
+        </div>
+
+        <div class="form-group">
+            <label>Valor</label>
+            <input  class="form-control"
+                    type="text" name="valor"
+                    value="@Model.valor"/>
+        </div>
+
+        <input  class="btn btn-primary" 
+                type="submit" value="Salvar"/>
+
+    </form>
+</div>

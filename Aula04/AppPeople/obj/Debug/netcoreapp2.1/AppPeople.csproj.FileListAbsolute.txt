@@ -1,0 +1,66 @@
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.deps.json
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.dll
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.pdb
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.Views.dll
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.Views.pdb
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.TagHelpers.input.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.TagHelpers.output.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorCoreGenerate.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorTargetAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.Views.pdb
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.dll
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.pdb
+C:\Users\lucas\OneDrive\Documentos\Faculdade\Aulas\SEM5\5. Linguagem de Programação Comercial\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.csproj.CopyComplete
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.deps.json
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.runtimeconfig.json
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.runtimeconfig.dev.json
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.dll
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.pdb
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.Views.dll
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\bin\Debug\netcoreapp2.1\AppPeople.Views.pdb
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.csprojAssemblyReference.cache
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.csproj.CoreCompileInputs.cache
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorAssemblyInfo.cache
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorAssemblyInfo.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.AssemblyInfoInputs.cache
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.AssemblyInfo.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.TagHelpers.input.cache
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.TagHelpers.output.cache
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorCoreGenerate.cache
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorTargetAssemblyInfo.cache
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.RazorTargetAssemblyInfo.cs
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.Views.pdb
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.dll
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.pdb
+C:\wamp64\www\4. SEM5_LPC\Aula04\AppPeople\obj\Debug\netcoreapp2.1\AppPeople.csproj.CopyComplete

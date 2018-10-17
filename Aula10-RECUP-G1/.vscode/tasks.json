@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Aula10-Avaliacao-G1.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
